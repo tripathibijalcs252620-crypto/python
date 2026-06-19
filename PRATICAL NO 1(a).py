@@ -1,0 +1,16 @@
+print("=" * 40)
+print("           MY PROFILE")
+print("=" * 40)
+
+print("Name       : Bijal Tripathi")
+print("Age        : 20")
+print("Gender     : Female")
+print("Course     : B.Sc. Computer Science")
+print("College    : XYZ College")
+print("Skills     : Python, SQL, Excel, Power BI")
+print("Hobbies    : Reading, Traveling, Listening to Music")
+print("Email      : bijal@example.com")
+
+print("=" * 40)
+print("      Thank You for Viewing My Profile")
+print("=" * 40)
